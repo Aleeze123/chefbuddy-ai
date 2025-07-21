@@ -31,4 +31,3 @@ Welcome to **ChefBuddy**, a friendly AI-powered recipe generator that turns your
 1. Clone the repo  
 ```bash
 git clone https://github.com/Aleeze123/chefbuddy-ai.git
-cd chefbuddy-ai
